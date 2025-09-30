@@ -1,0 +1,8 @@
+1.Understand Backend Fundamentals
+I want to learn how the backend works, including APIs, servers, and databases, so I can clearly explain and build the logic that powers applications.
+
+2.Practice with Real Projects
+I aim to create small projects (like a login system or a task manager) to apply what I learn and improve my problem-solving and coding skills.
+
+3.Explore Deployment and Security
+I want to learn how to safely deploy backend applications on the cloud and understand the basics of securing data and user information.
